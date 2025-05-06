@@ -11,7 +11,7 @@ Welcome to the **DSA-Series-Python** repository! 🚀
 - [Quadratic Time](01_Complexity_Analysis/quadratic_time.py)
 
 
-## **Array*
+## **Array**
 
 - [Contains Duplicate](02_Arrays/ContainsDuplicate.py)
 - [Linear Search](02_Arrays/LinearSearch.py)
