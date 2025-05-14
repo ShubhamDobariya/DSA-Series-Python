@@ -10,7 +10,6 @@ Welcome to the **DSA-Series-Python** repository! 🚀
 - [Logarithmic Time](01_Complexity_Analysis/logarithmic_time.py)
 - [Quadratic Time](01_Complexity_Analysis/quadratic_time.py)
 
-
 ## **Array**
 
 - [Contains Duplicate](02_Arrays/ContainsDuplicate.py)
@@ -18,14 +17,12 @@ Welcome to the **DSA-Series-Python** repository! 🚀
 - [Reverse Array](02_Arrays/ReverseArray.py)
 - [Smallest & LargestNum](02_Arrays/SmallestAndLargestNum.py)
 - [Two Sum](02_Arrays/two_sum.py)
-
-  
+- [Remove Duplicates from Sorted Array](02_Arrays/RemoveDuplicatesSortedArray.py)
 
 ## **Strings**
 
 - [Group Anagram](03_Strings/GroupAnagram.py)
 - [Valid Anagram](03_Strings/ValidAnagram.py)
-
 
 ## **Binary Search**
 
