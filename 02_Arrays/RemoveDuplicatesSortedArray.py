@@ -1,5 +1,8 @@
 # leetCode : 26 - Remove Duplicates from Sorted Array
 
+# Time complexity = O(n)
+# Space complexity = O(1) beacause in-placed, no extra array or list used
+
 
 def remove_duplicates(nums):
 
