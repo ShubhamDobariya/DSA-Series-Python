@@ -18,6 +18,7 @@ Welcome to the **DSA-Series-Python** repository! 🚀
 - [Smallest & LargestNum](02_Arrays/SmallestAndLargestNum.py)
 - [Two Sum](02_Arrays/two_sum.py)
 - [Remove Duplicates from Sorted Array](02_Arrays/RemoveDuplicatesSortedArray.py)
+- [Top K Frequent Elements](02_Arrays/TopKFrequentElements.py)
 
 ## **Strings**
 
