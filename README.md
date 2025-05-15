@@ -19,6 +19,7 @@ Welcome to the **DSA-Series-Python** repository! 🚀
 - [Two Sum](02_Arrays/two_sum.py)
 - [Remove Duplicates from Sorted Array](02_Arrays/RemoveDuplicatesSortedArray.py)
 - [Top K Frequent Elements](02_Arrays/TopKFrequentElements.py)
+- [Product of Array Except Self](02_Arrays/ProductofArrayExceptSelf.py)
 
 ## **Strings**
 
