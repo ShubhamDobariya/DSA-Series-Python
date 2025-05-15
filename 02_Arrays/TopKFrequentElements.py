@@ -3,8 +3,12 @@
 from collections import Counter
 import heapq
 
-# Time Complexity = O(n) because loop iterate n time and create hashmap
+"""""
+# Time Complexity = O(n) because Counting frequencies, Creating the heap array,
+    Heapifying (Python’s heapify uses Floyd's algorithm, which is linear)
+    
 # Space Complexity = O(n log k) because here we use heap instead of sorting that whay O(n log k), if we use sorting then O(n log n)
+""" ""
 
 
 def topKFrequent(nums, k):
