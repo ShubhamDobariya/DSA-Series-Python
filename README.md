@@ -32,6 +32,6 @@ Welcome to the **DSA-Series-Python** repository! 🚀
 
 ## **Bit Manipulation**
 
-- [Check if a number is even or odd](05_Bit_Manipulation/EvenOdd.py.py)
+- [Check if a number is even or odd](05_Bit_Manipulation/EvenOdd.py)
 - [Swap two numbers without temp](05_Bit_Manipulation/SwapTwoNumbers.py)
 - [Is Power of Two](05_Bit_Manipulation/PowerofTwo.py)
