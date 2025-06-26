@@ -15,8 +15,8 @@ def TwoSum(nums, target):
 
     for i in range(n):
         for j in range(i + 1, n):
-            nums[i] + nums[j] == target
-            return [i, j]
+            if nums[i] + nums[j] == target:
+                return [i, j]
 
     return []
 
