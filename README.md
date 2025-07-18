@@ -20,6 +20,8 @@ Welcome to the **DSA-Series-Python** repository! 🚀
 - [Remove Duplicates from Sorted Array](02_Arrays/RemoveDuplicatesSortedArray.py)
 - [Top K Frequent Elements](02_Arrays/TopKFrequentElements.py)
 - [Product of Array Except Self](02_Arrays/ProductofArrayExceptSelf.py)
+- [Missing Number](02_Arrays/MissingNum.py)
+- [Maximum Ascending Subarray Sum](02_Arrays/MaxAscendingSubArr.py)
 
 ## **Strings**
 
