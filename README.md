@@ -37,3 +37,9 @@ Welcome to the **DSA-Series-Python** repository! 🚀
 - [Check if a number is even or odd](05_Bit_Manipulation/EvenOdd.py)
 - [Swap two numbers without temp](05_Bit_Manipulation/SwapTwoNumbers.py)
 - [Is Power of Two](05_Bit_Manipulation/PowerofTwo.py)
+
+## **Numbers**
+
+- [Count Number of digit](06_Numbers/CountNumberOfDigit.py)
+- [Check Number is Palindrome or Not ](06_Numbers/PalindromeNumber.py)
+- [Reverse Number](06_Numbers/ReverseNumber.py)
