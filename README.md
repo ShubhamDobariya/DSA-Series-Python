@@ -43,3 +43,4 @@ Welcome to the **DSA-Series-Python** repository! 🚀
 - [Count Number of Digit](06_Numbers/CountNumberOfDigit.py)
 - [Check Number is Palindrome or Not ](06_Numbers/PalindromeNumber.py)
 - [Reverse Number](06_Numbers/ReverseNumber.py)
+- [Armstrong Number](06_Numbers/ArmstrongNumber.py)
