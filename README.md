@@ -40,6 +40,6 @@ Welcome to the **DSA-Series-Python** repository! 🚀
 
 ## **Numbers**
 
-- [Count Number of digit](06_Numbers/CountNumberOfDigit.py)
+- [Count Number of Digit](06_Numbers/CountNumberOfDigit.py)
 - [Check Number is Palindrome or Not ](06_Numbers/PalindromeNumber.py)
 - [Reverse Number](06_Numbers/ReverseNumber.py)
