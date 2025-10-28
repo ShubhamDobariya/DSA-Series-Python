@@ -45,3 +45,9 @@ Welcome to the **DSA-Series-Python** repository! 🚀
 - [Reverse Number](06_Numbers/ReverseNumber.py)
 - [Armstrong Number](06_Numbers/ArmstrongNumber.py)
 - [Print All Factors Of a Give Number](06_Numbers/PrintAllFactor.py)
+
+## **Recursion**
+
+- [Print 1 to N Numbers and N to 1 Numbers](07_Recursion/Print1ToN.py)
+- [Factorial of a Number usign Recursion ](07_Recursion/Factorial.py)
+- [Reverse an Array Using Recursion](07_Recursion/ReverseArray.py)
