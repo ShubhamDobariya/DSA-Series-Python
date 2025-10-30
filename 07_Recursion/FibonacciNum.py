@@ -1,5 +1,5 @@
-# TC =
-# SC =
+# TC = O(2ⁿ)
+# SC = O(n)
 
 
 def FibonacciNum(num):
