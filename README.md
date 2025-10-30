@@ -54,3 +54,8 @@ Welcome to the **DSA-Series-Python** repository! 🚀
 - [Reverse an Array Using Recursion](07_Recursion/ReverseArray.py)
 - [Find the Fibonacci Number](07_Recursion/FibonacciNum.py)
 - [Check String is Palindrome or not using Recursion](07_Recursion/PalindromeStr.py)
+
+## **Sorting Algorithms**
+
+- [Selection Sort](08_Sorting_Algorithms/SelectionSort.py)
+- [Bubble Sort](08_Sorting_Algorithms/BubbleSort.py)
