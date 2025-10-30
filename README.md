@@ -27,6 +27,7 @@ Welcome to the **DSA-Series-Python** repository! 🚀
 
 - [Group Anagram](03_Strings/GroupAnagram.py)
 - [Valid Anagram](03_Strings/ValidAnagram.py)
+- [Strings is Palindrome or not](03_Strings/Palindrome.py)
 
 ## **Binary Search**
 
@@ -51,3 +52,5 @@ Welcome to the **DSA-Series-Python** repository! 🚀
 - [Print 1 to N Numbers and N to 1 Numbers](07_Recursion/Print1ToN.py)
 - [Factorial of a Number usign Recursion ](07_Recursion/Factorial.py)
 - [Reverse an Array Using Recursion](07_Recursion/ReverseArray.py)
+- [Find the Fibonacci Number](07_Recursion/FibonacciNum.py)
+- [Check String is Palindrome or not using Recursion](07_Recursion/PalindromeStr.py)
