@@ -60,3 +60,4 @@ Welcome to the **DSA-Series-Python** repository! 🚀
 - [Selection Sort](08_Sorting_Algorithms/SelectionSort.py)
 - [Bubble Sort](08_Sorting_Algorithms/BubbleSort.py)
 - [Insertion Sort](08_Sorting_Algorithms/BubbleSort.py)
+- [Merge Sort](08_Sorting_Algorithms/MergeSort.py)
